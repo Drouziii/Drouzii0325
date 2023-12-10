@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drouzii0325
+- 👋 Hi, I’m @Drouziii
 - 👀 I’m interested in Coding
 - 🌱 I’ve started learning Python recently 
 - 💞️ I’m looking to collaborate on ...
